@@ -1,2 +1,0 @@
-# Fatwa-Analysis
-Data 
